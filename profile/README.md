@@ -58,7 +58,7 @@ We accept contributions for bug fixes, feature implementations, and translations
 Maintaining the applications and adapting to upstream API changes is ongoing work. If you find the project useful, consider supporting it.
 
 [![Patreon](https://img.shields.io/badge/Patreon-Support-f96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/A_EDev)
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-7FADF2?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/flowneuro)
+<!-- [![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-7FADF2?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/flowneuro) -->
 
 <details>
 <summary><strong>Donate with cryptocurrency</strong></summary>

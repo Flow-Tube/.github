@@ -1,4 +1,4 @@
-# Contributing to FlowNeuro
+# Contributing to Flow
 
 Thank you for your interest in contributing to Flow.
 

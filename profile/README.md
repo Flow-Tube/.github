@@ -48,6 +48,15 @@ Flow is a client for YouTube and YouTube Music that runs without Google Play Ser
 | **[Flow for Desktop](https://github.com/Flow-Tube/Flow-desktop)** | Rust, Tauri 2, React | Beta |
 | **[Flow Extension](https://github.com/Flow-Tube/Flow-extension)** | TypeScript | Beta |
 
+### Star history
+
+<a href="https://github.com/Flow-Tube">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/stars/stars-flow-tube-dark.svg">
+    <img alt="Star history of every Flow-Tube project" src="https://assets.flow-tube.org/v1/stars/stars-flow-tube-light.svg" width="100%">
+  </picture>
+</a>
+
 ## Privacy Policy and Disclaimer
 
 Flow does not collect, transmit, or store personal data. All playback history, preferences, and recommendation state remain on the device unless the user explicitly enables sync.

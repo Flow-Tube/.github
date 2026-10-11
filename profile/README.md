@@ -16,7 +16,7 @@
   <p>Download for Android</p>
 
 <a href="https://apt.izzysoft.de/fdroid/index/apk/io.github.aedev.flow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-izzyondroid-dark.svg"><img alt="Get it on IzzyOnDroid" src="https://assets.flow-tube.org/v1/badges/pill/get-izzyondroid-light.svg" height="60"></picture></a>
-<a href="https://github.com/A-EDev/Flow/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-github-dark.svg"><img alt="Get it on GitHub" src="https://assets.flow-tube.org/v1/badges/pill/get-github-light.svg" height="60"></picture></a>
+<a href="https://github.com/Flow-Tube/Flow/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-github-dark.svg"><img alt="Get it on GitHub" src="https://assets.flow-tube.org/v1/badges/pill/get-github-light.svg" height="60"></picture></a>
 
 </div>
 
@@ -35,7 +35,7 @@ Flow is a client for YouTube and YouTube Music that runs without Google Play Ser
 ## Projects
 
 <p align="center">
-<a href="https://github.com/A-EDev/Flow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/tile/tile-android-dark.svg"><img alt="Flow for Android" src="https://assets.flow-tube.org/v1/badges/tile/tile-android-light.svg" width="152" height="152"></picture></a>
+<a href="https://github.com/Flow-Tube/Flow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/tile/tile-android-dark.svg"><img alt="Flow for Android" src="https://assets.flow-tube.org/v1/badges/tile/tile-android-light.svg" width="152" height="152"></picture></a>
 <a href="https://github.com/Flow-Tube/Flow-Desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/tile/tile-desktop-dark.svg"><img alt="Flow Desktop for Windows, macOS and Linux" src="https://assets.flow-tube.org/v1/badges/tile/tile-desktop-light.svg" width="152" height="152"></picture></a>
 <a href="https://flow-tube.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/tile/tile-website-dark.svg"><img alt="Website: docs and downloads" src="https://assets.flow-tube.org/v1/badges/tile/tile-website-light.svg" width="152" height="152"></picture></a>
 <a href="https://hosted.weblate.org/engage/flow/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/tile/tile-translate-dark.svg"><img alt="Translate on Weblate" src="https://assets.flow-tube.org/v1/badges/tile/tile-translate-light.svg" width="152" height="152"></picture></a>
